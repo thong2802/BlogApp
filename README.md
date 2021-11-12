@@ -1,6 +1,6 @@
-#h3 MERM APP (React+Redux, NodeJS , Express, MongoDB)
+### MERM APP (React+Redux, NodeJS , Express, MongoDB)
 
-#h3 fontend
+### fontend
 - React
 - React Redux
 - Redux saga
@@ -9,3 +9,8 @@
 
 + npx create-react-app .
 + npm install redux react-redux redux saga axios moment
+
+### Backend
+- npm create -y
+- npm install express mongoose body-parser cors nodemon
+
